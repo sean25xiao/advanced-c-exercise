@@ -1,0 +1,2 @@
+language = "bash"
+run = "gcc sec12_union.c -o sec12_union.out & ./sec12_union.out"
